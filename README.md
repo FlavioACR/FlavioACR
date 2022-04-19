@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlavioACR
 - 👀 I’m interested in data world how impact in the companys
 - 🌱 I’m currently learning at @Platzi at the route of Data Engineer
-- 💞️ I’m looking to collaborate in any project to improve my skill
+- 💞️ I’m looking to collaborate in any project to improve my skills
 - 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/flaviocarrola/
 <!---
