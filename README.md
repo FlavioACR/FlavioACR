@@ -11,9 +11,7 @@
 - Data Engineer Apprentice💻
 
   Tools:🔧 🔨 ⚒
-- MS Office, Advanced MS Excel, MS Visio, VS Code,
-- Python, Jupyter Notebook, Google Collaboratory, Power BI, GitBash, WSL, 
-- Basic SQL, GSD "General sewing data".
+- MS Office, Advanced MS Excel, MS Visio, VS Code, Python, Jupyter Notebook, Google Collaboratory, Power BI, GitBash, Git & GitHub WSL, Basic SQL, GSD "General sewing data".
 
 - 📚🌱 I’m currently learning at @Platzi at the route of Data Engineer
 - 💞️ I’m looking to collaborate in any project to improve my skills
