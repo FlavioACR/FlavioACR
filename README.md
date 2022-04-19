@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @FlavioACR
 - 👀 I’m interested in data world how impact in the companys
-- Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement.
-- I never give up and my results support me when I set my mind to it.🎯 
+- Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement. I never give up and my results support me when I set my mind to it.🎯 
 
-  I am the rare mix of:♻️
+I am the rare mix of:♻️
 - A loving husband and father👪
 - Business administrator💼
 - Data analyst📊
