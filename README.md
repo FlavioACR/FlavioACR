@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @FlavioACR
 - 👀 I’m interested in data world how impact in the companys
-Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement.
-I never give up and my results support me when I set my mind to it.🎯 
+-Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement.
+-I never give up and my results support me when I set my mind to it.🎯 
 
 I am the rare mix of:♻️
-A loving husband and father👪
-Business administrator💼
-Data analyst📊
-Process engineer 📈
-Data Engineer Apprentice💻
+-A loving husband and father👪
+-Business administrator💼
+-Data analyst📊
+-Process engineer 📈
+-Data Engineer Apprentice💻
 
 Tools:🔧 🔨 ⚒
-MS Office, Advanced MS Excel, MS Visio, VS Code,
-Python, Jupyter Notebook, Google Collaboratory, Power BI, GitBash, WSL, 
-Basic SQL, GSD "General sewing data".
+-MS Office, Advanced MS Excel, MS Visio, VS Code,
+-Python, Jupyter Notebook, Google Collaboratory, Power BI, GitBash, WSL, 
+-Basic SQL, GSD "General sewing data".
 
-📚I am currently learning about data engineer at platzi.
+-📚I am currently learning about data engineer at platzi.
 
 
 
