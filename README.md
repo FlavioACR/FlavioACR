@@ -3,8 +3,8 @@
 Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement. I never give up and my results support me when I set my mind to it.🎯 
 
 I am the rare mix of:♻️
-- A loving husband and father👪
 - Business administrator💼
+- A loving husband and father👪
 - Data analyst📊
 - Process engineer 📈
 - Data Engineer Apprentice💻
