@@ -10,7 +10,10 @@ I am the rare mix of:♻️
 - Data Engineer Apprentice💻
 
 Tools:🔧 🔨 ⚒
-MS Office, Advanced MS Excel, MS Visio, VS Code, Python, Jupyter Notebook, Google Collaboratory, Power BI, GitBash, Git & GitHub WSL, Basic SQL, GSD "General sewing data".
+MS Office, Advanced MS Excel, MS Visio, VS Code,
+Python3, Python Library; Numpy, Pandas, Matplotlib, Searborn
+Notebooks Data Science; Jupyter , Google Collab, Deepnote 
+Powerbi BI, GitBash, Git & Github, Window Subsystems Linux, MySQL Workbench, Basic SQL, GSD "General sewing data" and Exenta
 
 📚🌱 I’m currently learning at @Platzi at the route of Data Engineer
 💞️ I’m looking to collaborate in any project to improve my skills
