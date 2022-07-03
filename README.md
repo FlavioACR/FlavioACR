@@ -10,8 +10,8 @@ I am the rare mix of:♻️
 - Data Engineer Apprentice💻
 
 Tools:🔧 🔨 ⚒
-MS Office, Advanced MS Excel, MS Visio, VS Code,
-Python3, Python Library; Numpy, Pandas, Matplotlib, Searborn
+MS Office, Advanced MS Excel, MS Visio, VS Code, Google Spreadsheets,
+Python3, Python Library; Numpy, Pandas, Matplotlib, Searborn, Pyunittest, Bokeh, Requests
 Notebooks Data Science; Jupyter , Google Collab, Deepnote 
 Powerbi BI, GitBash, Git & Github, Window Subsystems Linux, MySQL Workbench, Basic SQL, GSD "General sewing data" and Exenta
 
