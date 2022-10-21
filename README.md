@@ -1,28 +1,11 @@
-👋 Hi, I’m @FlavioACR
-👀 I’m interested in data world how impact in the companys
-Give the best of me in what I set out to do, learn quickly and efficiently, in search of continuous learning and improvement. I never give up and my results support me when I set my mind to it.🎯 
+I am a professional with 3 years of experience in manufacturing process engineering from scratch and 2 years of freelance experience helping with data analysis, business plans and business intelligence to clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America. America.
 
-I am the rare mix of:♻️
-- Business administrator💼
-- A loving husband and father👪
-- Data analyst📊
-- Process engineer 📈
-- Data Engineer Apprentice💻
+I have fallen in love with the world of technology, I love astronomy, writing code and I am passionate about continuous learning and creating solutions or positive impact in any collaboration or project that I have to carry out.
 
-Tools:🔧 🔨 ⚒
-MS Office, Advanced MS Excel, MS Visio, VS Code, Google Spreadsheets,
-Python3, Python Library; Numpy, Pandas, Matplotlib, Searborn, Pyunittest, Bokeh, Requests
-Notebooks Data Science; Jupyter , Google Collab, Deepnote,
-Powerbi BI, GitBash, Git & Github, Window Subsystems Linux, MySQL Workbench, Basic SQL, GSD "General sewing data" and Exenta
+I have a bachelor's degree in administration, I have experience optimizing and providing processes, based on the needs of customers or products and considering that the correct use of the correct technologies can change any business and even the life of any professional.
 
-📚🌱 I’m currently learning at @Platzi at the route of Data Engineer
-💞️ I’m looking to collaborate in any project to improve my skills
- 
-- 📫 How to reach me
--  Linkedin: https://www.linkedin.com/in/flaviocarrola/
--  Email   : 📧flavioabatcarrola1@gmail.com
-<!---
-FlavioACR/FlavioACR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This are my tools:
 
+
+
+📧flavioabatcarrolar@gmail.com
