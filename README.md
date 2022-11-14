@@ -9,8 +9,7 @@ I have a bachelor's degree in administration, I have experience optimizing and p
 *  Notebooks; Jupyter, Google Collab, Deep note.
 *  Spreadsheets: Advance Excel, Google Sheets
 * Languages: Python.
-* Python Library’s; NumPy, Pandas, Matplotlib,
-  Seaborn, Pyunittest, Bokeh, Requests, Venv.
+* Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Venv, Click.
 * Version Controller: GitBash, Git & GitHub.
 * OS: Windows, WSL (Windows Subsystem Linux).
 * Code Editor: VS Code.
