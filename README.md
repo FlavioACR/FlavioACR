@@ -17,7 +17,7 @@ I have a bachelor's degree in administration, I have experience optimizing and p
 * Storage: Google Drive, OneDrive
 * Layout: MS Visio.
 * Software testing: Selenium
-* BI: Power B
+* BI: Power BI
 
 Contact:
 📧flavioabatcarrolar@gmail.com
