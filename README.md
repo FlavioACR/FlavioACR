@@ -5,7 +5,19 @@ I have fallen in love with the world of technology, I love astronomy, writing co
 I have a bachelor's degree in administration, I have experience optimizing and providing processes, based on the needs of customers or products and considering that the correct use of the correct technologies can change any business and even the life of any professional.
 
 This are my tools:
+· Notebooks; Jupyter, Google Collab, Deep note.
+· Spreadsheets: Advance Excel, Google Sheets
+· Languages: Python.
+· Python Library’s; NumPy, Pandas, Matplotlib,
+  Seaborn, Pyunittest, Bokeh, Requests, Venv.
+· Version Controller: GitBash, Git & GitHub.
+· OS: Windows, WSL (Windows Subsystem Linux).
+· Code Editor: VS Code.
+· Database: MySQL, MySQL Workbench, SQL Shell.
+· Storage: Google Drive, OneDrive
+· Layout: MS Visio.
+· Software testing: Selenium
+· BI: Power BI
 
-
-
+Contact:
 📧flavioabatcarrolar@gmail.com
