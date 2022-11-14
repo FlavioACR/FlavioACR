@@ -8,17 +8,17 @@ I have a bachelor's degree in administration, I have experience optimizing and p
 ## My Tools:
 *  Notebooks; Jupyter, Google Collab, Deep note.
 *  Spreadsheets: Advance Excel, Google Sheets
-· Languages: Python.
-· Python Library’s; NumPy, Pandas, Matplotlib,
-Seaborn, Pyunittest, Bokeh, Requests, Venv.
-· Version Controller: GitBash, Git & GitHub.
-· OS: Windows, WSL (Windows Subsystem Linux).
-· Code Editor: VS Code.
-· Database: MySQL, MySQL Workbench, SQL Shell.
-· Storage: Google Drive, OneDrive
-· Layout: MS Visio.
-· Software testing: Selenium
-· BI: Power B
+* Languages: Python.
+* Python Library’s; NumPy, Pandas, Matplotlib,
+  Seaborn, Pyunittest, Bokeh, Requests, Venv.
+* Version Controller: GitBash, Git & GitHub.
+* OS: Windows, WSL (Windows Subsystem Linux).
+* Code Editor: VS Code.
+* Database: MySQL, MySQL Workbench, SQL Shell.
+* Storage: Google Drive, OneDrive
+* Layout: MS Visio.
+* Software testing: Selenium
+* BI: Power B
 
 Contact:
 📧flavioabatcarrolar@gmail.com
