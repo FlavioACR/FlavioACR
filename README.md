@@ -12,8 +12,7 @@ I just finished my Platzi certification as BackEnd Developer with Python
 
 
 ## My Tecnologys: 
-##### Notebooks;
-      Jupyter, Google Collab, Deep note.
+##### Notebooks; Jupyter, Google Collab, Deep note.
 #### Spreadsheets:
       Advance Excel, Google Sheets
 * Languages: Python.
