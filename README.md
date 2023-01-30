@@ -27,6 +27,11 @@ I just finished my Platzi certification as BackEnd Developer with Python INSERTA
 * 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="" / https://www.linkedin.com/in/flaviocarrola/ >
+    <img src="" />
+    <img src="" />
+    <img src="" />
+  
 </div>
 
 
