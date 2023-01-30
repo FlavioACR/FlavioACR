@@ -32,11 +32,8 @@ I just finished my Platzi certification as BackEnd Developer with Python INSERTA
 
 ### Contact me 
 - LinkedIn: [Flavio Carrola](https://www.linkedin.com/in/flaviocarrola/)
-- E-mail:   📧flavioabatcarrolar@gmail.com
+- E-mail:    📧flavioabatcarrolar@gmail.com
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    
-    
 </div>
