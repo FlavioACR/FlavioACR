@@ -11,19 +11,20 @@ I believe that the use of the correct technologies can change any business and e
 I just finished my Platzi certification as BackEnd Developer with Python
 
 
-## My Tecnologys: 
-* Notebooks; Jupyter, Google Collab, Deep note.
-* Spreadsheets: Advance Excel, Google Sheets
-* Languages: Python.
-* Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
-* Version Controller: GitBash, Git & GitHub.
-* OS: Windows, WSL (Windows Subsystem Linux).
-* Code Editor: VS Code.
-* Database: MySQL, MySQL Workbench, SQL Shell.
-* Storage: Google Drive, OneDrive
-* Layout: MS Visio.
-* Software testing: Selenium
-* BI: Power BI
+## My Tecnologys:
+
+  * Notebooks; Jupyter, Google Collab, Deep note.
+  * Spreadsheets: Advance Excel, Google Sheets
+  * Languages: Python.
+  * Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
+  * Version Controller: GitBash, Git & GitHub.
+  * OS: Windows, WSL (Windows Subsystem Linux).
+  * Code Editor: VS Code.
+  * Database: MySQL, MySQL Workbench, SQL Shell.
+  * Storage: Google Drive, OneDrive
+  * Layout: MS Visio.
+  * Software testing: Selenium
+  * BI: Power BI
 
 ## Contac me 📱:
 
