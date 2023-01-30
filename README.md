@@ -32,7 +32,7 @@ I just finished my Platzi certification as BackEnd Developer with Python INSERTA
 
 ### Contact me 
 
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.linkedin.com/in/flaviocarrola/)
+[FL](https://www.linkedin.com/in/flaviocarrola/)
 
 - E-mail:    📧flavioabatcarrolar@gmail.com
 
