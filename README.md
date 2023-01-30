@@ -1,6 +1,6 @@
 # ¡Hi! Welcome I'm Flavio, Data Analyst Jr & Backend Developer Trainee
 
-I am a professional with 3 years of experience in administration and process engineering, 2 years of experience as an independent professional offering the following services;  Analysis of data / Development in Python / Wed scraping / Business intelligence.
+I am a professional with 3 years of experience in administration and process engineering, 2 years of experience as an independent professional with independent projects where I have improved and gained experience in data analysis, debugging, programming and business intelligence. 
 
 I have had clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America, America.
 
@@ -13,19 +13,21 @@ I just finished my Platzi certification as BackEnd Developer with Python
 
 ## My Tecnologys:
 
-  * Notebooks; Jupyter, Google Collab, Deep note.
-  * Spreadsheets: Advance Excel, Google Sheets
-  * Languages: Python.
-  * Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
-  * Version Controller: GitBash, Git & GitHub.
-  * OS: Windows, WSL (Windows Subsystem Linux).
-  * Code Editor: VS Code.
-  * Database: MySQL, MySQL Workbench, SQL Shell.
-  * Storage: Google Drive, OneDrive
-  * Layout: MS Visio.
-  * Software testing: Selenium
-  * BI: Power BI
-  * Frameworks: FastAPI 
+  ·	Notebooks; Jupyter, Google Collab, Deep note.
+  ·	Spreadsheets: Advance Excel, Google Sheets
+  ·	Languages: Python.
+  ·	Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
+  ·	Version Controller: Git & GitHub.
+  ·	OS: Windows, WSL (Windows Subsystem Linux).
+  ·	Code Editor: VS Code.
+  ·	Database: MySQL, MySQL Workbench,
+  ·	Console: GitBash, SQL Shell
+  ·	Storage: Google Drive, OneDrive
+  ·	Layout: MS Visio.
+  ·	Software testing: Selenium
+  ·	BI: Power BI
+  ·	Framework:  FastAPI 
+ 
 
 ## Contact me 📱:
 
