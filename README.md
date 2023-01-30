@@ -14,7 +14,8 @@ I just finished my Platzi certification as BackEnd Developer with Python
 ## My Tecnologys: 
 ##### Notebooks;
       Jupyter, Google Collab, Deep note.
-*  Spreadsheets: Advance Excel, Google Sheets
+#### Spreadsheets:
+      Advance Excel, Google Sheets
 * Languages: Python.
 * Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
 * Version Controller: GitBash, Git & GitHub.
