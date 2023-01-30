@@ -26,7 +26,7 @@ I just finished my Platzi certification as BackEnd Developer with Python INSERTA
 * BI: Power BI
 * 
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 
