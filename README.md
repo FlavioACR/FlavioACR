@@ -33,5 +33,5 @@ I just finished my Platzi certification as BackEnd Developer with Python
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 ](flavioabatcarrolar@gmail.com)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/flaviocarrolax)
-[img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white2"/>](https://es.fiverr.com/abatcarrola)
+[<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white2"/>](https://es.fiverr.com/abatcarrola)
 
