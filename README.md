@@ -25,6 +25,7 @@ I just finished my Platzi certification as BackEnd Developer with Python
   * Layout: MS Visio.
   * Software testing: Selenium
   * BI: Power BI
+  * Frameworks: FastAPI 
 
 ## Contact me 📱:
 
