@@ -1,12 +1,18 @@
-## About me:
-I am a professional with 3 years of experience in manufacturing process engineering from scratch and 2 years of freelance experience helping with data analysis, business plans and business intelligence to clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America. America.
+# ¡Hi! Welcome I'm Flavio, Data Analyst Jr & Backend Developer Trainee
 
-I have fallen in love with the world of technology, I love astronomy, writing code and I am passionate about continuous learning and creating solutions or positive impact in any collaboration or project that I have to carry out.
+I am a professional with 3 years of experience in administration and process engineering, 2 years of experience as an independent professional offering the following services;  Analysis of data / Development in Python / Wed scraping / Business intelligence.
 
-I have a bachelor's degree in administration, I have experience optimizing and providing processes, based on the needs of customers or products and considering that the correct use of the correct technologies can change any business and even the life of any professional.
+I have had clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America, America.
 
-## My Tools:
-*  Notebooks; Jupyter, Google Collab, Deep note.
+I have a degree in business administration but I have fallen in love with the world of technology ❤, I love astronomy, writing code looking for it to be as clean as possible and I am passionate about continuous learning and creating solutions or positive impact in any collaboration or project that I have to carry out finished.
+
+I believe that the use of the correct technologies can change any business and even the life of any professional.
+
+I just finished my Platzi certification as BackEnd Developer with Python INSERTAR IMAGEN
+
+
+## Con qué tecnologías trabajo 
+* Notebooks; Jupyter, Google Collab, Deep note.
 *  Spreadsheets: Advance Excel, Google Sheets
 * Languages: Python.
 * Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
@@ -18,6 +24,21 @@ I have a bachelor's degree in administration, I have experience optimizing and p
 * Layout: MS Visio.
 * Software testing: Selenium
 * BI: Power BI
+* 
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
+
+### Contact me 📲
 Contact:
 📧flavioabatcarrolar@gmail.com
+
+
+- LinkedIn: [Flavio Carrola](https://www.linkedin.com/in/flaviocarrola/)
+- E-mail:   📧flavioabatcarrolar@gmail.com
+
+<div align="center">
+    <[img src="https://forthebadge.com/images/badges/built-with-love.svg" /](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)>
+</div>
+
