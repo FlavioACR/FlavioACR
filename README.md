@@ -1,4 +1,4 @@
-# ¡Hi! Welcome I'm Flavio, Data Analyst Jr & Backend Developer Trainee
+# ¡Hi! Welcome I'm Flavio, Data Analyst & Backend Developer
 
 I am a professional with 3 years of experience in administration and process engineering, 2 years of experience as an independent professional with independent projects where I have improved and gained experience in data analysis, debugging, programming and business intelligence. 
 
