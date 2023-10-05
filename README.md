@@ -1,6 +1,6 @@
-# ¡Hi! Welcome I'm Flavio, Data Analyst & Backend Developer
+# ¡Hi! Welcome I'm Flavio, Data Analyst 
 
-I am a professional with 3 years of experience in administration and process engineering, 2 years of experience as an independent professional with independent projects where I have improved and gained experience in data analysis, debugging, programming and business intelligence. 
+I am a professional with 4 years of experience in administration and process engineering, 2 years of experience as an independent professional with independent projects where I have improved and gained experience in data analysis, debugging, programming and business intelligence. 
 
 I have had clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America, America.
 
@@ -8,7 +8,7 @@ I have a degree in business administration but I have fallen in love with the wo
 
 I believe that the use of the correct technologies can change any business and even the life of any professional.
 
-I just finished my Platzi certification as BackEnd Developer with Python
+Recently I finished my Platzi certification as BackEnd Developer with Python
 
 
 ## My Tecnologys:
