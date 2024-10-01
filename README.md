@@ -1,18 +1,14 @@
 # ¡Hi! Welcome I'm Flavio, Data Analyst 
 
-I am a professional with 4 years of experience in administration and process engineering, 2 years of experience as an independent professional with independent projects where I have improved and gained experience in data analysis, debugging, programming and business intelligence. 
+I am a data analyst with over 6 years of experience in process management and business intelligence, focused on strategic decisions in sectors such as process engineering,
+production, investments and finance. I specialize in continuous improvement, autonomous learning and innovative technological solutions. My determination and commitment to each goal
+distinguish me, and I am always excited to contribute to the success of the team.
 
-I have had clients in the USA, Canada, Alaska, Europe, Spain, Mexico and Latin America, America.
-
-I have a degree in business administration but I have fallen in love with the world of technology ❤, I love astronomy, writing code looking for it to be as clean as possible and I am passionate about continuous learning and creating solutions or positive impact in any collaboration or project that I have to carry out finished.
+I have a degree in business administration but I have fallen in love with the world of technology ❤, I love writing code and I am passionate about continuous learning and creating solutions or positive impact in any collaboration or project that I have to carry out finished.
 
 I believe that the use of the correct technologies can change any business and even the life of any professional.
 
-Recently I finished my Platzi certification as BackEnd Developer with Python
-
-
 ## My Tecnologys:
-
   ·	Notebooks; Jupyter, Google Collab, Deep note.
   ·	Spreadsheets: Advance Excel, Google Sheets
   ·	Languages: Python.
