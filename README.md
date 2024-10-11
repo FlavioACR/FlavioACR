@@ -28,6 +28,7 @@ I believe that the use of the correct technologies can change any business and e
 ## Contact me 📱:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/flaviocarrola/)
+[<img src="https://img.shields.io/badge/NovyPro-FF5733?style=for-the-badge&logo=databricks&logoColor=white" />](https://my.novypro.com/flavio-carrola)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](flavioabatcarrolar@gmail.com)
 [<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white2"/>](https://es.fiverr.com/abatcarrola)
 
