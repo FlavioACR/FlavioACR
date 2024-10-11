@@ -8,23 +8,6 @@ I have a degree in business administration but I have fallen in love with the wo
 
 I believe that the use of the correct technologies can change any business and even the life of any professional.
 
-## My Tecnologys:
-  ·	Notebooks; Jupyter, Google Collab, Deep note.
-  ·	Spreadsheets: Advance Excel, Google Sheets
-  ·	Languages: Python.
-  ·	Python Library’s; NumPy, Pandas, Matplotlib, Seaborn, Pyunittest, Bokeh, Requests, Virtualvenv, Click.
-  ·	Version Controller: Git & GitHub.
-  ·	OS: Windows, WSL (Windows Subsystem Linux).
-  ·	Code Editor: VS Code.
-  ·	Database: MySQL, MySQL Workbench,
-  ·	Console: GitBash, SQL Shell
-  ·	Storage: Google Drive, OneDrive
-  ·	Layout: MS Visio.
-  ·	Software testing: Selenium
-  ·	BI: Power BI
-  ·	Framework:  FastAPI 
- 
-
 ## Contact me 📱:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/flaviocarrola/)
